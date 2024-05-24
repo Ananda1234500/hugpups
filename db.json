@@ -51,7 +51,35 @@
       "name": "John Doe",
       "content": "Buddy was amazing and very friendly! Would highly recommend.",
       "date": "2024-05-22"
-    }
+    },
+     {
+  "id": 2,
+  "name": "Jane Smith",
+  "content": "Max provided great comfort during my visit. He's such a calm and gentle dog.",
+  "date": "2024-05-21"
+},
+    {
+  "id": 3,
+  "name": "John Williams",
+  "content": "Bella was full of energy and brought a lot of joy. She’s a delightful companion.",
+  "date": "2024-05-22"
+},
+    {
+  "id": 4,
+  "name": "Emily Johnson",
+  "content": "Buddy’s friendly nature made my day. Highly recommended for anyone needing comfort.",
+  "date": "2024-05-23"
+},
+    {
+  "id": 5,
+  "name": "Michael Brown",
+  "content": "Max is incredibly gentle and patient. Perfect for therapeutic sessions.",
+  "date": "2024-05-24"
+}
+
+
+
+
   ],
   "users": 
     {
